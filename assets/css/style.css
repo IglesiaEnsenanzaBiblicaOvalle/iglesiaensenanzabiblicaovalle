@@ -3,4 +3,19 @@
     padding:0;
 
 }
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
 
+div{
+    text-align: center;
+
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
