@@ -5,6 +5,9 @@
 }
 body{
     display: flex;
+    background-image: url(../img/eberhard-grossgasteiger-CytHrRFp2wU-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
     justify-content: center;
     align-items: center;
     height: 100vh;
@@ -12,10 +15,14 @@ body{
 
 div{
     text-align: center;
+    color: whitesmoke;
 
 }
 
 a{
     text-decoration: none;
-    color: black;
+    color: whitesmoke;
+}
+a:visited{
+    color: whitesmoke;
 }
